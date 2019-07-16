@@ -19,7 +19,12 @@
       "name": "People",
       "preview_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_d.png",
       "preview_thumbnail_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_d.png"
-    }
+    },
+     {
+      "name": "Landscapes2",
+      "preview_url": "https://raw.githubusercontent.com/meanii/Parawalls/master/res/thumbnail/Landscape.jpg",
+      "preview_thumbnail_url": "https://raw.githubusercontent.com/meanii/Parawalls/master/res/thumbnail/Landscape.jpg"
+    },
   ],
   "Wallpapers": [
     {
