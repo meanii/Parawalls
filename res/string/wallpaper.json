@@ -25,13 +25,13 @@
     {
       "name": "ShotA",
       "author": "Someone",
-      "url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/walla.jpg",
+      "url": "https://raw.githubusercontent.com/meanii/Parawalls/master/res/thumbnail/Landscape.jpg",
       "collections": "featured,landscapes,people"
     },
     {
       "name": "ShotB",
       "author": "Someone",
-      "url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/wallb.png",
+      "url": "https://raw.githubusercontent.com/meanii/Parawalls/master/res/thumbnail/Landscape.jpg",
       "dimensions": "3200x2560",
       "collections": "people,city",
       "downloadable": false
