@@ -24,6 +24,11 @@
   ],
   "Wallpapers": [
     {
+      "name": "Desktop",
+      "url": "https://github.com/meanii/Parawalls/raw/master/res/wallpaper/%40OsumWalls%20Desktop%20Anime%20Sunset.png",
+      "thumbnail": "https://raw.githubusercontent.com/meanii/Parawalls/master/res/thumbnail/blueandpinklandscape.jpg"
+    },
+    {
       "name": "ShotA",
       "author": "Someone",
       "url": "https://raw.githubusercontent.com/meanii/Parawalls/master/res/thumbnail/Landscape.jpg",
