@@ -1,4 +1,25 @@
-[
+
+	
+	{
+  "Collections": [
+    {
+      "name": "Landscapes",
+      "preview_url": "https://raw.githubusercontent.com/meanii/Parawalls/master/res/thumbnail/Landscape.jpg",
+      "preview_thumbnail_url": "https://raw.githubusercontent.com/meanii/Parawalls/master/res/thumbnail/Landscape.jpg"
+    },
+    {
+      "name": "City",
+      "preview_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_c.png",
+      "preview_thumbnail_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_c.png"
+    },
+    {
+      "name": "Food",
+      "preview_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_b.png",
+      "preview_thumbnail_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_b.png"
+    },
+    
+  ],
+  "Wallpapers": [
 	{
 		"name": "Neon girl",
 		"Upload by": "anil",
