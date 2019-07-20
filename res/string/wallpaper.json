@@ -1,15 +1,14 @@
 {
   "Collections": [
     {
-      "name": "Landscapes",
-      "preview_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
-      "preview_thumbnail_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_a.png"
+       "name": "Landscapes",
+      "preview_url": "https://i.imgur.com/1ocidUH.jpg",
+      "preview_thumbnail_url": "https://i.imgur.com/1ocidUHl.jpg"
     },
     {
       "name": "City",
-      "preview_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_c.png",
-      "preview_thumbnail_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_c.png"
-    },
+      "preview_url": "https://i.imgur.com/iC6UI44.jpg",
+      "preview_thumbnail_url": "https://i.imgur.com/iC6UI44l.jpg"    },
     {
       "name": "Food",
       "preview_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_b.png",
@@ -23,19 +22,18 @@
   ],
   "Wallpapers": [
     {
-      "name": "ShotA",
-      "author": "Someone",
-      "url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/walla.jpg",
-      "collections": "featured,landscapes,people"
+      "name": "Girl",
+      "author": "anil chauhan",
+      "url": "https://i.imgur.com/1ocidUH.jpg",
+      "collections": "neon, girl"
     },
     {
-      "name": "ShotB",
-      "author": "Someone",
-      "url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/wallb.png",
-      "dimensions": "3200x2560",
-      "collections": "people,city",
-      "downloadable": false
-    },
+      "name": "City light",
+      "author": "anil chauhan",
+      "url": "https://i.imgur.com/iC6UI44.jpg",
+      "thumbnail": "https://i.imgur.com/iC6UI44l.jpg",
+      "dimensions": "1080x1920",
+      "collections": "neon,city",    },
     {
       "author": "Someone",
       "url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/wallc.jpg",
