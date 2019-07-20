@@ -51,21 +51,7 @@
       "dimensions": "1280x720",
       "copyright": "Credits to its creator",
       "collections": "neon"
-    },
-    {"name": "Neon ligh girl",
-    "author": "Unknown",
-    "url": "https://i.imgur.com/dka0eZ3.jpg",
-    "thumbnail": "https://i.imgur.com/dka0eZ3.jpg",
-    "collections": "neon, girl",
-    "downloadable": true,
-    "size": 345066,
-    "dimensions": "1280 x 720 px",  
-    "copyright": "@meanii"
-     },
-    {"name": "girl on sky",
-      "author": "Someone",
-      "url": "https://i.imgur.com/j2UQOlc.jpg",
-      "collections": "girl"
-     },
+    }
+    
     ]
 }
