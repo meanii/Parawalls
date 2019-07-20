@@ -1,69 +1,22 @@
-{
-  "Collections": [
-    {
-      "name": "Landscapes",
-      "preview_url": "https://raw.githubusercontent.com/meanii/Parawalls/master/res/thumbnail/Landscape.jpg",
-      "preview_thumbnail_url": "https://raw.githubusercontent.com/meanii/Parawalls/master/res/thumbnail/Landscape.jpg"
-    },
-    {
-      "name": "City",
-      "preview_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_c.png",
-      "preview_thumbnail_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_c.png"
-    },
-    {
-      "name": "Food",
-      "preview_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_b.png",
-      "preview_thumbnail_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_b.png"
-    },
-    {
-      "name": "People",
-      "preview_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_d.png",
-      "preview_thumbnail_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_d.png"
-    },
-    
-  ],
-  "Wallpapers": [
-    {
-      "name": "Desktop",
-      "url": "https://github.com/meanii/Parawalls/raw/master/res/wallpaper/%40OsumWalls%20Desktop%20Anime%20Sunset.png",
-      "thumbnail": "https://raw.githubusercontent.com/meanii/Parawalls/master/res/thumbnail/blueandpinklandscape.jpg"
-    },
-    {
-      "name": "ShotA",
-      "author": "Someone",
-      "url": "https://raw.githubusercontent.com/meanii/Parawalls/master/res/thumbnail/Landscape.jpg",
-      "collections": "featured,landscapes,desktop"
-    },
-    {
-      "name": "Girl",
-      "author": "Anil",
-      "url": "https://raw.githubusercontent.com/meanii/Parawalls/master/res/thumbnail/girl1.jpg",
-      "dimensions": "3200x2560",
-      "collections": "people,city",
-      "downloadable": true
-    },
-    {
-      "author": "Neon art",
-      "url": "https://i.imgur.com/xtWeLp3.jpg",
-      "name": "ShotC",
-      "dimensions": "1280x720",
-      "copyright": "Credits to its creator",
-      "collections": "neon"
-    },
-    {"name": "Neon ligh girl",
-		"author": "Unknown",
-		"url": "https://i.imgur.com/dka0eZ3.jpg",
-		"thumbnail": "https://i.imgur.com/dka0eZ3.jpg",
-		"collections": "neon, girl",
+[
+	{
+		"name": "Neon girl",
+		"Upload by": "anil",
+		"url": "https://i.imgur.com/1ocidUH.jpg",
+		"thumbnail": "https://i.imgur.com/1ocidUHl.jpg",
+		"collections": "Neon, Girl",
 		"downloadable": true,
-		"size": 345066,
-		"dimensions": "1280 x 720 px",  
-		"copyright": "@meanii"
-     },
-	  {"name": "girl on sky",
-      "author": "Someone",
-      "url": "https://i.imgur.com/j2UQOlc.jpg",
-      "collections": "girl"
-     },
-	  ]
-}
+		"size": 2810,
+		"dimensions": "2016 x 4032 px",
+		"copyright": "Parawalls"
+	},
+	{
+		"name": "Neon girl 2",
+		"Uplaod by": "anil",
+		"url": "https://i.imgur.com/Rc5kyfR.jpg",
+		"thumbnail": "https://i.imgur.com/Rc5kyfRl.jpg",
+		"collections": "Landscapes,Art,Material Design",
+		"downloadable": true,
+		"copyright": "Parawalls"
+	}
+]
