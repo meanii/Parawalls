@@ -1,32 +1,34 @@
 {
   "Collections": [
     {
-      "name": "Landscapes",
-      "preview_url": "https://raw.githubusercontent.com/meanii/Parawalls/master/res/thumbnail/Landscape.jpg",
-      "preview_thumbnail_url": "https://raw.githubusercontent.com/meanii/Parawalls/master/res/thumbnail/Landscape.jpg"
+      "name": "Neon",
+      "preview_url": "https://i.imgur.com/1ocidUH.jpg",
+      "preview_thumbnail_url": "https://i.imgur.com/1ocidUHl.jpg"
     },
     {
-      "name": "City",
-      "preview_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_c.png",
-      "preview_thumbnail_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_c.png"
+      "name": "Girl",
+      "preview_url": "https://i.imgur.com/Rc5kyfR.jpg",
+      "preview_thumbnail_url": "https://i.imgur.com/Rc5kyfRl.jpg"
     },
     {
-      "name": "Food",
-      "preview_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_b.png",
-      "preview_thumbnail_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_b.png"
+      "name": "Night light",
+      "preview_url": "https://i.imgur.com/Pb3sM2a.jpg",
+      "preview_thumbnail_url": "https://i.imgur.com/Pb3sM2al.jpg"
     },
     {
-      "name": "People",
-      "preview_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_d.png",
-      "preview_thumbnail_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_d.png"
+      "name": "Marvel",
+      "preview_url": "https://i.imgur.com/dNHzv3c.jpg",
+      "preview_thumbnail_url": "https://i.imgur.com/dNHzv3cl.jpg"
     },
     
   ],
   "Wallpapers": [
     {
-      "name": "Desktop",
-      "url": "https://github.com/meanii/Parawalls/raw/master/res/wallpaper/%40OsumWalls%20Desktop%20Anime%20Sunset.png",
-      "thumbnail": "https://raw.githubusercontent.com/meanii/Parawalls/master/res/thumbnail/blueandpinklandscape.jpg"
+      "name": "Girl",
+      "author": "Someone",
+      "url": "https://i.imgur.com/nYisT1d.jpg",
+      "thumbnail": "https://i.imgur.com/nYisT1dl.jpg"
+      "collections": "neon,girl"
     },
     {
       "name": "ShotA",
@@ -50,20 +52,6 @@
       "copyright": "Credits to its creator",
       "collections": "neon"
     },
-    {"name": "Neon ligh girl",
-    "author": "Unknown",
-    "url": "https://i.imgur.com/dka0eZ3.jpg",
-    "thumbnail": "https://i.imgur.com/dka0eZ3.jpg",
-    "collections": "neon, girl",
-    "downloadable": true,
-    "size": 345066,
-    "dimensions": "1280 x 720 px",  
-    "copyright": "@meanii"
-     },
-    {"name": "girl on sky",
-      "author": "Someone",
-      "url": "https://i.imgur.com/j2UQOlc.jpg",
-      "collections": "girl"
-     },
+    
     ]
 }
