@@ -2,129 +2,99 @@
   "Collections": [
     {
       "name": "Landscapes",
-      "preview_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
-      "preview_thumbnail_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_a.png"
+      "preview_url": "https://i.imgur.com/1ocidUH.jpg",
+      "preview_thumbnail_url": "https://i.imgur.com/1ocidUHl.jpg"
     },
     {
       "name": "City",
-      "preview_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_c.png",
-      "preview_thumbnail_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_c.png"
-    },
-    {
-      "name": "Food",
-      "preview_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_b.png",
-      "preview_thumbnail_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_b.png"
-    },
-    {
-      "name": "People",
-      "preview_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_d.png",
-      "preview_thumbnail_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_d.png"
+      "preview_url": "https://i.imgur.com/iC6UI44.jpg",
+      "preview_thumbnail_url": "https://i.imgur.com/iC6UI44l.jpg"
     }
   ],
   "Wallpapers": [
     {
-      "name": "ShotA",
-      "author": "Someone",
-      "url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/walla.jpg",
-      "collections": "featured,landscapes,people"
+      "name": "Girl",
+      "author": "anil chauhan",
+      "url": "https://i.imgur.com/1ocidUH.jpg",
+      "collections": "neon, girl"
     },
     {
-      "name": "ShotB",
-      "author": "Someone",
-      "url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/wallb.png",
-      "dimensions": "3200x2560",
-      "collections": "people,city",
-      "downloadable": false
+      "name": "City light",
+      "author": "anil chauhan",
+      "url": "https://i.imgur.com/iC6UI44.jpg",
+      "thumbnail": "https://i.imgur.com/iC6UI44l.jpg",
+      "dimensions": "1080x1920",
+      "collections": "neon,city",
     },
     {
-      "author": "Someone",
-      "url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/wallc.jpg",
-      "name": "ShotC",
-      "dimensions": "1280x720",
+      "name": "City light",
+      "author": "anil chauhan",
+      "url": "https://i.imgur.com/YCkVa7D.jpg",
+      "thumbnail": "https://i.imgur.com/YCkVa7Dl.jpg",
+      "dimensions": "4000x6000",
+      "copyright": "@parawalls",
+      "collections": "neon,city",
+       },
+    {
+      "name": "Avengers",
+      "author": "anil chauhan",
+      "url": "https://i.imgur.com/2yhhVzR.jpg",
+      "thumbnail": "https://i.imgur.com/2yhhVzRl.jpg",
+      "dimensions": "1080x2280",
       "copyright": "Credits to its creator",
-      "collections": "landscapes,city"
+      "collections": "Marvel, Avengers"
     },
     {
-      "name": "Wallsplash 1",
-      "author": "wallsplash",
-      "url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
-      "thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_a.png",
-      "dimensions": "3200x2560",
-      "copyright": "Free (do whatever you want)",
-      "collections": "featured,landscapes,people,city",
-      "featured": true
+      "name": "Dare Devil",
+      "author": "anil chauhan",
+      "url": "https://i.imgur.com/JFtv3J7.jpg",
+      "thumbnail": "https://i.imgur.com/JFtv3J7l.jpg",
+      "dimensions": "1080x1920",
+      "copyright": "Creadits to its creator",
+      "collections": "Marvel, Dare Devil"
     },
     {
-      "name": "Wallsplash 2",
-      "author": "wallsplash",
-      "url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_b.png",
-      "thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_b.png",
-      "dimensions": "3200x2560",
-      "copyright": "Free (do whatever you want)",
-      "collections": "featured,landscapes,people,food"
+      "name": "X-Men",
+      "author": "anil chauhan",
+      "url": "https://i.imgur.com/vudlYLm.jpg",
+      "thumbnail": "https://i.imgur.com/vudlYLml.jpg",
+      "dimensions": "1080x2280",
+      "copyright": "Creadits to its creator",
+      "collections": "Marvel, X-Men"
     },
     {
-      "name": "Wallsplash 3",
-      "author": "wallsplash",
-      "url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_c.png",
-      "thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_c.png",
-      "dimensions": "3200x2560",
-      "copyright": "Free (do whatever you want)",
-      "collections": "featured,food,people"
+      "name": "wolverine",
+      "author": "anil chauhan",
+      "url": "https://i.imgur.com/0tNbYmr.jpg",
+      "thumbnail": "https://i.imgur.com/0tNbYmrl.jpg",
+      "dimensions": "3508x1960",
+      "copyright": "Creadits to its creator",
+      "collections": "Marvel, X-men, desktop"
     },
     {
-      "name": "Wallsplash 4",
-      "author": "wallsplash",
-      "url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_d.png",
-      "thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_d.png",
-      "dimensions": "3200x2560",
-      "copyright": "Free (do whatever you want)",
-      "collections": "landscapes,people,city"
+      "name": "Night city light",
+      "author": "anil chauhan",
+      "url": "https://i.imgur.com/Pb3sM2a.jpg",
+      "thumbnail": "https://i.imgur.com/Pb3sM2al.jpg",
+      "dimensions": "2828x5656",
+      "copyright": "Creadits to its creator",
+      "collections": "Night light,"
     },
     {
-      "name": "Wallsplash 5",
-      "author": "wallsplash",
-      "url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_e.png",
-      "thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_e.png",
-      "dimensions": "3200x2560",
-      "copyright": "Free (do whatever you want)",
-      "collections": "featured,landscapes"
-    },
-    {
-      "name": "Wallsplash 6",
-      "author": "wallsplash",
-      "url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_f.png",
-      "thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_f.png",
-      "dimensions": "3200x2560",
-      "copyright": "Free (do whatever you want)",
-      "collections": "featured,people"
-    },
-    {
-      "name": "Wallsplash 7",
-      "author": "wallsplash",
-      "url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_g.png",
-      "thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_g.png",
-      "dimensions": "3200x2560",
-      "copyright": "Free (do whatever you want)",
-      "collections": "landscapes,people"
-    },
-    {
-      "name": "Wallsplash 8",
-      "author": "wallsplash",
-      "url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_h.png",
-      "thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_h.png",
-      "dimensions": "3200x2560",
-      "copyright": "Free (do whatever you want)",
-      "collections": "food"
-    },
-    {
-      "name": "Webp Image",
-      "author": "unknown",
-      "url": "https://www.gstatic.com/webp/gallery/4.webp",
-      "thumbnail": "https://www.gstatic.com/webp/gallery/5.webp",
-      "dimensions": "3200x2560",
-      "copyright": "Unknown",
-      "collections": "landscapes"
-    }
+      "name": "Night City Light",
+      "author": "anil chauhan",
+      "url": "https://i.imgur.com/iC6UI44.jpg",
+      "thumbnail": "https://i.imgur.com/iC6UI44l.jpg",
+      "dimensions": "1080x1920",
+      "copyright": "Creadits to its creator",
+     },
+     {
+      "name": "PUBG in my Blood",
+      "author": "anil chauhan",
+      "url": "https://i.imgur.com/3cXsOOO.jpg",
+      "thumbnail": "https://i.imgur.com/3cXsOOOl.jpg",
+      "dimensions": "1080x1920",
+      "copyright": "Creadits to its creator",
+     }
   ]
 }
