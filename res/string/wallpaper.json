@@ -81,10 +81,19 @@
       "name": "Thor",
       "author": "anil chauhan",
       "url": "https://i.imgur.com/uhd0Cja.jpg",
-      "thumbnail": "https://i.imgur.com/uhd0Cja.jpg",
+      "thumbnail": "https://i.imgur.com/uhd0Cjal.jpg",
       "dimensions": "1920x1080",
       "copyright": "Creadits to its creator",
-      "collections": "Thor, Marvel"
+      "collections": "Thor, Marvel, Desktop"
+    },
+    {
+      "name": "Anime Girl",
+      "author": "anil chauhan",
+      "url": "https://i.imgur.com/jG5hiCq.jpg",
+      "thumbnail": "https://i.imgur.com/jG5hiCql.jpg",
+      "dimensions": "2560x1440",
+      "copyright": "Creadits to its creator",
+      "collections": "Anime, Desktop"
     }
   ]
 }
