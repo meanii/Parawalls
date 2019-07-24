@@ -56,14 +56,15 @@
       "copyright": "Creadits to its creator",
       "collections": "Desktop, Anime, Your Name",
       "featured": true
+    },
       {
-      "name": "Wallsplash 2",
-      "author": "wallsplash",
-      "url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_b.png",
-      "thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_b.png",
-      "dimensions": "3200x2560",
-      "copyright": "Free (do whatever you want)",
-      "collections": "featured,landscapes,people,food"
+      "name": "White ferrari",
+      "author": "anil chauhan",
+      "url": "https://i.imgur.com/ASGWo61.jpg",
+      "thumbnail": "https://i.imgur.com/ASGWo61l.jpg",
+      "dimensions": "1440x2560",
+      "copyright": "Creadits to its creator",
+      "collections": "Cars,"
     },
          
        }
