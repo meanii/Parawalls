@@ -57,16 +57,6 @@
       "collections": "Desktop, Anime, Your Name",
       "featured": true
     },
-      {
-      "name": "White ferrari",
-      "author": "anil chauhan",
-      "url": "https://i.imgur.com/ASGWo61.jpg",
-      "thumbnail": "https://i.imgur.com/ASGWo61l.jpg",
-      "dimensions": "1440x2560",
-      "size": 4454880,
-      "copyright": "Creadits to its creator",
-      "collections": "Cars"
-    },
     {
       "name": "Ford Mustang",
       "author": "anil chauhan",
@@ -85,6 +75,16 @@
       "dimensions": "1920x1080",
       "copyright": "Creadits to its creator",
       "collections": "Thor, Marvel, Desktop"
+    },
+    {
+      "name": "White ferrari",
+      "author": "anil chauhan",
+      "url": "https://i.imgur.com/ASGWo61.jpg",
+      "thumbnail": "https://i.imgur.com/ASGWo61l.jpg",
+      "dimensions": "1440x2560",
+      "size": 4454880,
+      "copyright": "Creadits to its creator",
+      "collections": "Cars"
     },
     {
       "name": "Anime Girl",
