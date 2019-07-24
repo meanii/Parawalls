@@ -66,6 +66,15 @@
       "size": 4454880,
       "copyright": "Creadits to its creator",
       "collections": "Cars, Feature"
+    },
+    {
+      "name": "Ford Mustang",
+      "author": "anil chauhan",
+      "url": "https://i.imgur.com/gYqkX92.jpg",
+      "thumbnail": "https://i.imgur.com/gYqkX92l.jpg",
+      "dimensions": "550x980",
+      "copyright": "Creadits to its creator",
+      "collections": "cars"
     }
   ]
 }
