@@ -31,12 +31,12 @@
       "collections": "Galaxy"
     },
     {
-      "name": "ShotB",
-      "author": "Someone",
-      "url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/wallb.png",
-      "dimensions": "3200x2560",
-      "collections": "people,city",
-      "downloadable": false
+      "name": "Black panther",
+      "author": "anil chauhan",
+      "url": "https://i.imgur.com/B0hFayy.jpg",
+      "dimensions": "540x959",
+      "collections": "Black panther, Marvel",
+      "downloadable": true
     },
     {
       "author": "Someone",
@@ -47,7 +47,7 @@
       "collections": "landscapes,city"
     },
     {
-      "name": "Blue & Pink magic",
+      "name": "Blue & Pink Magic",
       "author": "anil chauhan",
       "url": "https://i.imgur.com/IJ0C2iM.jpg",
       "thumbnail": "https://i.imgur.com/IJ0C2iMl.jpg",
