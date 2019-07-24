@@ -48,15 +48,24 @@
       "collections": "Girls, Neon"
     },
     {
-      "name": "Blue & Pink Magic",
+      "name": "Kimi no Na wa(Your Name)",
       "author": "anil chauhan",
-      "url": "https://i.imgur.com/IJ0C2iM.jpg",
-      "thumbnail": "https://i.imgur.com/IJ0C2iMl.jpg",
-      "dimensions": "4800x2400",
+      "url": "https://i.imgur.com/TpPG09X.jpg",
+      "thumbnail": "https://i.imgur.com/TpPG09Xl.jpg",
+      "dimensions": "6238x3507",
       "copyright": "Creadits to its creator",
-      "collections": "Desktop, minimal",
+      "collections": "Desktop, Anime, Your Name",
       "featured": true
+      {
+      "name": "Wallsplash 2",
+      "author": "wallsplash",
+      "url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_b.png",
+      "thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_b.png",
+      "dimensions": "3200x2560",
+      "copyright": "Free (do whatever you want)",
+      "collections": "featured,landscapes,people,food"
+    },
          
-        }
+       }
   ]
 }
