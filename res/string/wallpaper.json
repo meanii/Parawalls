@@ -73,8 +73,18 @@
       "url": "https://i.imgur.com/gYqkX92.jpg",
       "thumbnail": "https://i.imgur.com/gYqkX92l.jpg",
       "dimensions": "550x980",
+      "size": 1156880,
       "copyright": "Creadits to its creator",
       "collections": "cars"
+    },
+    {
+      "name": "Thor",
+      "author": "anil chauhan",
+      "url": "https://i.imgur.com/uhd0Cja.jpg",
+      "thumbnail": "https://i.imgur.com/uhd0Cja.jpg",
+      "dimensions": "1920x1080",
+      "copyright": "Creadits to its creator",
+      "collections": "Thor, Marvel"
     }
   ]
 }
