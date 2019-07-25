@@ -22,8 +22,17 @@
     }
   ],
   "Wallpapers": [
+    {
+      "name": "lub sky",
+      "author": "anil chauhan",
+      "url": "https://i.imgur.com/3sHeicJ.jpg",
+      "thumbnail": "https://i.imgur.com/3sHeicJl.jpg",
+      "dimensions": "3000x2000",
+      "copyright": "creadit to its creator",
+      "collections": "Aesthetic,"
+    },
      {
-      "name": "Russina Sunset",
+      "name": "Russian Sunset",
       "author": "anil chauhan",
       "url": "https://i.imgur.com/E3MGEu0.jpg",
       "thumbnail": "https://i.imgur.com/E3MGEu0l.jpg",
