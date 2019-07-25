@@ -28,13 +28,22 @@
   ],
   "Wallpapers": [
     {
+      "name": "Neon night",
+      "author": "anil chauhan",
+      "url": "https://i.imgur.com/9Ls0Ye3.jpg",
+      "thumbnail": "https://i.imgur.com/9Ls0Ye3.jpg",
+      "dimensions": "3027x3784",
+      "copyright": "creadit to its creator",
+      "collections": "Aesthetic, Neon"
+    },
+    {
       "name": "Green breathe",
       "author": "anil chauhan",
       "url": "https://i.imgur.com/uYttaMQ.jpg",
       "thumbnail": "https://i.imgur.com/uYttaMQl.jpg",
       "dimensions": "3097x2065",
       "copyright": "creadit to its creator",
-      "collections": "Aesthetic,Nature"
+      "collections": "Aesthetic, Nature"
     },
     {
       "name": "lub sky",
