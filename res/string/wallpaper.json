@@ -19,9 +19,24 @@
       "name": "People",
       "preview_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_d.png",
       "preview_thumbnail_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_d.png"
+    },
+    {
+      "name": "Aesthetic",
+      "preview_url": "https://i.imgur.com/HhmCfCr.jpg",
+      "preview_thumbnail_url": "https://i.imgur.com/HhmCfCrl.jpg"
     }
   ],
   "Wallpapers": [
+    
+    {
+      "name": "Ciaran",
+      "author": "anil chauhan",
+      "url": "https://i.imgur.com/HhmCfCr.jpg",
+      "thumbnail": "https://i.imgur.com/HhmCfCrl.jpg",
+      "dimensions": "4778x2983",
+      "copyright": "creadit to its creator",
+      "collections": "Aesthetic, Neon"
+    },
     {
       "name": "Galaxy",
       "author": "anil chauhan",
