@@ -18,18 +18,23 @@
     {
       "name": "Desktop",
       "preview_url": "https://i.imgur.com/TpPG09X.jpg",
-      "preview_thumbnail_url": "ttps://i.imgur.com/TpPG09Xl.jpg"
+      "preview_thumbnail_url": "https://i.imgur.com/TpPG09Xl.jpg"
+    },
+    {
+      "name": "Nature",
+      "preview_url": "https://i.imgur.com/uYttaMQ.jpg",
+      "preview_thumbnail_url": "https://i.imgur.com/uYttaMQl.jpg"
     }
   ],
   "Wallpapers": [
     {
-      "name": "lub sky",
+      "name": "Green breathe",
       "author": "anil chauhan",
       "url": "https://i.imgur.com/uYttaMQ.jpg",
       "thumbnail": "https://i.imgur.com/uYttaMQl.jpg",
       "dimensions": "3097x2065",
       "copyright": "creadit to its creator",
-      "collections": "Aesthetic,"
+      "collections": "Aesthetic,Nature"
     },
     {
       "name": "lub sky",
