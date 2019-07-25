@@ -9,10 +9,23 @@
       "name": "Aesthetic",
       "preview_url": "https://i.imgur.com/HhmCfCr.jpg",
       "preview_thumbnail_url": "https://i.imgur.com/HhmCfCrl.jpg"
+    },
+    {
+      "name": "Neon",
+      "preview_url": "https://i.imgur.com/1ocidUH.jpg",
+      "preview_thumbnail_url": "https://i.imgur.com/1ocidUHl.jpg"
     }
   ],
   "Wallpapers": [
-    
+     {
+      "name": "POPOV",
+      "author": "anil chauhan",
+      "url": "https://i.imgur.com/4vRAhLT.jpg",
+      "thumbnail": "https://i.imgur.com/4vRAhLT.jpg",
+      "dimensions": "3000x2000",
+      "copyright": "creadit to its creator",
+      "collections": "Aesthetic, Neon"
+    },
     {
       "name": "Ciaran",
       "author": "anil chauhan",
